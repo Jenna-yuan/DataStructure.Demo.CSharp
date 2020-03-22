@@ -11,7 +11,7 @@
 
 1、navicat连接：账户（root）、密码（123456）；
 
-2、开发工具：Eclipse IDE；
+2、开发工具：Eclipse IDE；Jdk1.8
 
 3、数据库：Mysql 5.6.39。
 
@@ -22,6 +22,7 @@
 2、系统浏览器使用建议使用Google；
 
 3、管理员登录账号密码见博客。
+
 联系方式
 
 如有问题可以在博客留言，博客地址：https://www.cnblogs.com/Jenna-wang/p/12514515.html#4528809
