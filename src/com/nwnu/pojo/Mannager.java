@@ -1,6 +1,6 @@
 package com.nwnu.pojo;
 
-public class Mannager {
+public class Mannager {//管理员
 	private Integer id;
 	private String name;
 	private String password;
